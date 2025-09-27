@@ -1,4 +1,4 @@
-# 9. **나머지 구하기**
+# 9. **나머지 구하기** (Lv.0)
 
 https://school.programmers.co.kr/learn/courses/30/lessons/120810
 
@@ -15,7 +15,7 @@ class Solution {
 }
 ```
 
-# 10. 중앙값 구하기(버블 정렬)
+# 10. 중앙값 구하기(버블 정렬) (Lv.0)
 
 https://school.programmers.co.kr/learn/courses/30/lessons/120811
 
@@ -43,7 +43,7 @@ class Solution {
 }
 ```
 
-# 11. **최빈값 구하기(HashMap)**
+# 11. **최빈값 구하기(HashMap)** (Lv.0)
 
 https://school.programmers.co.kr/learn/courses/30/lessons/120812
 
@@ -88,7 +88,7 @@ class Solution {
 }
 ```
 
-# 12. 짝수는 싫어요(단순 수열 생성)
+# 12. 짝수는 싫어요(단순 수열 생성) (Lv.0)
 
 https://school.programmers.co.kr/learn/courses/30/lessons/120813
 
