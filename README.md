@@ -16,7 +16,7 @@
 
 ## ⭐ Progress
 
-![progress](https://img.shields.io/badge/Problems-0%2F200-blue)
+![progress](https://img.shields.io/badge/Problems-1%2F200-blue)
 
 ---
 
@@ -44,12 +44,6 @@
 10. 수정렬 / 위상정렬 (20)
 
 총 **200문제**
-
----
-
-## Progress
-
-- 0 / 200
 
 ---
 
