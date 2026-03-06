@@ -16,7 +16,7 @@
 
 ## ⭐ Progress
 
-![progress](https://img.shields.io/badge/Problems-1%2F200-blue)
+![progress](https://img.shields.io/badge/Problems-2%2F200-blue)
 
 ---
 
@@ -51,9 +51,10 @@
 
 ### 구현 / 시뮬레이션
 
-| 번호 | 문제                                              | 코드                                      |
-| ---- | ------------------------------------------------- | ----------------------------------------- |
-| 1    | [2578 빙고](https://www.acmicpc.net/problem/2578) | [Java](./BOJ/implementation/boj2578.java) |
+| 번호 | 문제                                                               | 코드                                       |
+| ---- | ------------------------------------------------------------------ | ------------------------------------------ |
+| 1    | [2578 빙고](https://www.acmicpc.net/problem/2578)                  | [Java](./BOJ/implementation/boj2578.java)  |
+| 2    | [20546 🐜 기적의 매매법 🐜](https://www.acmicpc.net/problem/20546) | [Java](./BOJ/implementation/boj20546.java) |
 
 ---
 
