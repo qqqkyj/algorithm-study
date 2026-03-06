@@ -1,62 +1,127 @@
-# Algorithm Study - Programmers Starter 100
+# Algorithm Study
 
-프로그래머스 입문 100문제 챌린지를 정리한 알고리즘 스터디 저장소입니다.  
-문제 풀이와 간단한 설명을 포함하며, 자바(Java)를 기준으로 작성했습니다.
+코딩테스트 대비 알고리즘 문제 풀이 기록
 
----
-
-## 📘 관련 링크
-
-- [프로그래머스 입문 챌린지 목록](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc)
+- Language: Java
+- Platform: 백준 온라인 저지
+- Goal: 200 Problems
 
 ---
 
-## 📌 문제 목록 (예시)
+## ⭐ Solved.ac 티어
 
-| Day | 문제명                                                                                                                                                                                                                                                     | 풀이 요약                          |
-| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
-| 001 | [두 수의 합 구하기 (Lv.0)](https://github.com/qqqkyj/algorithm-study/tree/main/programmers-starter-100-algorithm/Day1-%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0)                                                                                                | 사칙연산                           |
-| 002 | [두 수의 차 구하기 (Lv.0)](https://github.com/qqqkyj/algorithm-study/tree/main/programmers-starter-100-algorithm/Day1-%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0)                                                                                                | 사칙연산                           |
-| 003 | [두 수의 곱 구하기 (Lv.0)](https://github.com/qqqkyj/algorithm-study/tree/main/programmers-starter-100-algorithm/Day1-%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0)                                                                                                | 사칙연산                           |
-| 004 | [몫 구하기 (Lv.0)](https://github.com/qqqkyj/algorithm-study/tree/main/programmers-starter-100-algorithm/Day1-%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0)                                                                                                        | 사칙연산                           |
-| 005 | [두 수의 나눗셈 (Lv.0)](https://github.com/qqqkyj/algorithm-study/blob/main/programmers-starter-100-algorithm/Day2-%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0%2C%EC%A1%B0%EA%B1%B4%EB%AC%B8%2C%EB%B0%B0%EC%97%B4/README.md)                                      | 사칙연산, 조건문, 배열             |
-| 006 | [숫자 비교하기 (Lv.0)](https://github.com/qqqkyj/algorithm-study/blob/main/programmers-starter-100-algorithm/Day2-%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0%2C%EC%A1%B0%EA%B1%B4%EB%AC%B8%2C%EB%B0%B0%EC%97%B4/README.md)                                       | 사칙연산, 조건문, 배열             |
-| 007 | [분수의 덧셈(유클리드 호제법) (Lv.0)](https://github.com/qqqkyj/algorithm-study/blob/main/programmers-starter-100-algorithm/Day2-%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0%2C%EC%A1%B0%EA%B1%B4%EB%AC%B8%2C%EB%B0%B0%EC%97%B4/README.md)                        | 사칙연산, 조건문, 배열             |
-| 008 | [배열 두 배 만들기 (Lv.0)](https://github.com/qqqkyj/algorithm-study/blob/main/programmers-starter-100-algorithm/Day2-%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0%2C%EC%A1%B0%EA%B1%B4%EB%AC%B8%2C%EB%B0%B0%EC%97%B4/README.md)                                   | 사칙연산, 조건문, 배열             |
-| 009 | [나머지 구하기 (Lv.0)](https://github.com/qqqkyj/algorithm-study/tree/main/programmers-starter-100-algorithm/Day3-%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0%2C%EB%B0%B0%EC%97%B4%2C%EC%88%98%ED%95%99)                                                          | 사칙연산, 배열, 수학               |
-| 010 | [중앙값 구하기(버블 정렬) (Lv.0)](https://github.com/qqqkyj/algorithm-study/tree/main/programmers-starter-100-algorithm/Day3-%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0%2C%EB%B0%B0%EC%97%B4%2C%EC%88%98%ED%95%99)                                               | 사칙연산, 배열, 수학               |
-| 011 | [최빈값 구하기(HashMap) (Lv.0)](https://github.com/qqqkyj/algorithm-study/tree/main/programmers-starter-100-algorithm/Day3-%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0%2C%EB%B0%B0%EC%97%B4%2C%EC%88%98%ED%95%99)                                                 | 사칙연산, 배열, 수학               |
-| 012 | [짝수는 싫어요(단순 수열 생성) (Lv.0)](https://github.com/qqqkyj/algorithm-study/tree/main/programmers-starter-100-algorithm/Day3-%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0%2C%EB%B0%B0%EC%97%B4%2C%EC%88%98%ED%95%99)                                          | 사칙연산, 배열, 수학               |
-| 013 | [피자 나눠 먹기 (1) (Lv.0)](https://github.com/qqqkyj/algorithm-study/tree/main/programmers-starter-100-algorithm/Day4-%EC%88%98%ED%95%99%2C%EB%B0%B0%EC%97%B4)                                                                                            | 수학, 배열                         |
-| 014 | [피자 나눠 먹기 (2) (Lv.0)](https://github.com/qqqkyj/algorithm-study/tree/main/programmers-starter-100-algorithm/Day4-%EC%88%98%ED%95%99%2C%EB%B0%B0%EC%97%B4)                                                                                            | 수학, 배열                         |
-| 015 | [피자 나눠 먹기 (3) (Lv.0)](https://github.com/qqqkyj/algorithm-study/tree/main/programmers-starter-100-algorithm/Day4-%EC%88%98%ED%95%99%2C%EB%B0%B0%EC%97%B4)                                                                                            | 수학, 배열                         |
-| 016 | [배열의 평균값 (Lv.0)](https://github.com/qqqkyj/algorithm-study/tree/main/programmers-starter-100-algorithm/Day4-%EC%88%98%ED%95%99%2C%EB%B0%B0%EC%97%B4)                                                                                                 | 수학, 배열                         |
-| 017 | [옷가게 할인 받기 (Lv.0)](https://github.com/qqqkyj/algorithm-study/tree/main/programmers-starter-100-algorithm/Day5-%EC%88%98%ED%95%99%2C%EB%B0%B0%EC%97%B4)                                                                                              | 수학, 배열                         |
-| 018 | [아이스 아메리카노 (Lv.0)](https://github.com/qqqkyj/algorithm-study/tree/main/programmers-starter-100-algorithm/Day5-%EC%88%98%ED%95%99%2C%EB%B0%B0%EC%97%B4)                                                                                             | 수학, 배열                         |
-| 019 | [나이 출력 (Lv.0)](https://github.com/qqqkyj/algorithm-study/tree/main/programmers-starter-100-algorithm/Day5-%EC%88%98%ED%95%99%2C%EB%B0%B0%EC%97%B4)                                                                                                     | 수학, 배열                         |
-| 020 | [배열 뒤집기 (Lv.0)](https://github.com/qqqkyj/algorithm-study/tree/main/programmers-starter-100-algorithm/Day5-%EC%88%98%ED%95%99%2C%EB%B0%B0%EC%97%B4)                                                                                                   | 수학, 배열                         |
-| 021 | [뒤집힌 문자열 (Lv.0)](https://github.com/qqqkyj/algorithm-study/tree/main/programmers-starter-100-algorithm/Day6-%EB%AC%B8%EC%9E%90%EC%97%B4%2C%EB%B0%98%EB%B3%B5%EB%AC%B8%2C%EC%B6%9C%EB%A0%A5%2C%EB%B0%B0%EC%97%B4%2C%EC%A1%B0%EA%B1%B4%EB%AC%B8)       | 문자열, 반복문, 출력, 배열, 조건문 |
-| 022 | [직각삼각형 출력하기 (Lv.0)](https://github.com/qqqkyj/algorithm-study/tree/main/programmers-starter-100-algorithm/Day6-%EB%AC%B8%EC%9E%90%EC%97%B4%2C%EB%B0%98%EB%B3%B5%EB%AC%B8%2C%EC%B6%9C%EB%A0%A5%2C%EB%B0%B0%EC%97%B4%2C%EC%A1%B0%EA%B1%B4%EB%AC%B8) | 문자열, 반복문, 출력, 배열, 조건문 |
-| 023 | [짝수 홀수 개수 (Lv.0)](https://github.com/qqqkyj/algorithm-study/tree/main/programmers-starter-100-algorithm/Day6-%EB%AC%B8%EC%9E%90%EC%97%B4%2C%EB%B0%98%EB%B3%B5%EB%AC%B8%2C%EC%B6%9C%EB%A0%A5%2C%EB%B0%B0%EC%97%B4%2C%EC%A1%B0%EA%B1%B4%EB%AC%B8)      | 문자열, 반복문, 출력, 배열, 조건문 |
-| 024 | [문자 반복 출력하기 (Lv.0)](https://github.com/qqqkyj/algorithm-study/tree/main/programmers-starter-100-algorithm/Day6-%EB%AC%B8%EC%9E%90%EC%97%B4%2C%EB%B0%98%EB%B3%B5%EB%AC%B8%2C%EC%B6%9C%EB%A0%A5%2C%EB%B0%B0%EC%97%B4%2C%EC%A1%B0%EA%B1%B4%EB%AC%B8)  | 문자열, 반복문, 출력, 배열, 조건문 |
-| 025 | [특정 문자 제거하기 (Lv.0)](https://github.com/qqqkyj/algorithm-study/tree/main/programmers-starter-100-algorithm/Day7-%EB%AC%B8%EC%9E%90%EC%97%B4%2C%EC%A1%B0%EA%B1%B4%EB%AC%B8%2C%EC%88%98%ED%95%99%2C%EB%B0%98%EB%B3%B5%EB%AC%B8)                       | 문자열, 조건문, 수학, 반복문       |
-| 026 | [각도기 (Lv.0)](https://github.com/qqqkyj/algorithm-study/tree/main/programmers-starter-100-algorithm/Day7-%EB%AC%B8%EC%9E%90%EC%97%B4%2C%EC%A1%B0%EA%B1%B4%EB%AC%B8%2C%EC%88%98%ED%95%99%2C%EB%B0%98%EB%B3%B5%EB%AC%B8)                                   | 문자열, 조건문, 수학, 반복문       |
-| 027 | [양꼬치 (Lv.0)](https://github.com/qqqkyj/algorithm-study/tree/main/programmers-starter-100-algorithm/Day7-%EB%AC%B8%EC%9E%90%EC%97%B4%2C%EC%A1%B0%EA%B1%B4%EB%AC%B8%2C%EC%88%98%ED%95%99%2C%EB%B0%98%EB%B3%B5%EB%AC%B8)                                   | 문자열, 조건문, 수학, 반복문       |
-| 028 | [짝수의 합 (Lv.0)](https://github.com/qqqkyj/algorithm-study/tree/main/programmers-starter-100-algorithm/Day7-%EB%AC%B8%EC%9E%90%EC%97%B4%2C%EC%A1%B0%EA%B1%B4%EB%AC%B8%2C%EC%88%98%ED%95%99%2C%EB%B0%98%EB%B3%B5%EB%AC%B8)                                | 문자열, 조건문, 수학, 반복문       |
-
-> 나머지 문제는 동일한 형식으로 추가 예정
+![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=123rkdduswn)
 
 ---
 
-## 💡 사용법
+## ⭐ Progress
 
-1. 각 문제 폴더로 이동
-2. Java 파일 확인 및 실행
-3. 문제 풀이 이해 후 직접 코드 작성 연습
+![progress](https://img.shields.io/badge/Problems-0%2F200-blue)
 
 ---
 
-## 📈 진행 현황
+## Rule
 
-- 현재 문제 수: 28 / 100
-- 진행률: 28%
+- 하루 **2 ~ 4 문제 풀이**
+- 문제 풀이 후 **GitHub Commit**
+- 코드에 **풀이 주석 작성**
+- 알고리즘 분류별 폴더 관리
+- 풀이한 문제는 **README에 기록**
+
+---
+
+## Study Plan
+
+1. 구현 / 시뮬레이션 (20)
+2. 완전탐색 (20)
+3. 이분탐색 (20)
+4. 그리디 (20)
+5. 재귀 / 분할정복 / 백트래킹 (20)
+6. 다이나믹 프로그래밍 (20)
+7. BFS / DFS / 다익스트라 (20)
+8. 문자열 / KMP / 트라이 / 접미사 (20)
+9. 투포인터 (20)
+10. 수정렬 / 위상정렬 (20)
+
+총 **200문제**
+
+---
+
+## Progress
+
+- 0 / 200
+
+---
+
+## Problem List
+
+### 구현 / 시뮬레이션
+
+| 번호 | 문제                                              | 코드                                      |
+| ---- | ------------------------------------------------- | ----------------------------------------- |
+| 1    | [2578 빙고](https://www.acmicpc.net/problem/2578) | [Java](./BOJ/implementation/boj2578.java) |
+
+---
+
+### 완전탐색
+
+| 번호 | 문제 | 코드 |
+| ---- | ---- | ---- |
+
+---
+
+### 이분탐색
+
+| 번호 | 문제 | 코드 |
+| ---- | ---- | ---- |
+
+---
+
+### 그리디
+
+| 번호 | 문제 | 코드 |
+| ---- | ---- | ---- |
+
+---
+
+### 재귀 / 분할정복 / 백트래킹
+
+| 번호 | 문제 | 코드 |
+| ---- | ---- | ---- |
+
+---
+
+### 다이나믹 프로그래밍
+
+| 번호 | 문제 | 코드 |
+| ---- | ---- | ---- |
+
+---
+
+### BFS / DFS / 다익스트라
+
+| 번호 | 문제 | 코드 |
+| ---- | ---- | ---- |
+
+---
+
+### 문자열 / KMP / 트라이 / 접미사
+
+| 번호 | 문제 | 코드 |
+| ---- | ---- | ---- |
+
+---
+
+### 투포인터
+
+| 번호 | 문제 | 코드 |
+| ---- | ---- | ---- |
+
+---
+
+### 수정렬 / 위상정렬
+
+| 번호 | 문제 | 코드 |
+| ---- | ---- | ---- |
+
+---
