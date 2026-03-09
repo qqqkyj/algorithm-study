@@ -17,7 +17,7 @@
 
 # 📊 Progress
 
-![progress](https://img.shields.io/badge/Problems-4%2F200-blue)
+![progress](https://img.shields.io/badge/Problems-5%2F200-blue)
 
 ---
 
@@ -60,6 +60,7 @@
 | 2    | [9012 괄호](https://www.acmicpc.net/problem/9012)        | [Java](./BOJ/basic1/Boj9012.java) |
 | 3    | [1874 스택 수열](https://www.acmicpc.net/problem/1874)   | [Java](./BOJ/basic1/Boj1874.java) |
 | 4    | [1406 에디터](https://www.acmicpc.net/problem/1406)      | [Java](./BOJ/basic1/Boj1406.java) |
+| 5    | [1158 요세푸스](https://www.acmicpc.net/problem/1158)    | [Java](./BOJ/basic1/Boj1158.java) |
 
 ---
 
