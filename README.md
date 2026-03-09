@@ -54,11 +54,9 @@
 
 ## Problem List
 
-| 번호 | 문제                                                               | 코드                               |
-| ---- | ------------------------------------------------------------------ | ---------------------------------- |
-| 1    | [2578 빙고](https://www.acmicpc.net/problem/2578)                  | [Java](./BOJ/basic1/boj2578.java)  |
-| 2    | [20546 🐜 기적의 매매법 🐜](https://www.acmicpc.net/problem/20546) | [Java](./BOJ/basic1/boj20546.java) |
-| 3    | [14889 스타트와 링크](https://www.acmicpc.net/problem/14889)       | [Java](./BOJ/basic1/boj14889.java) |
+| 번호 | 문제                                                     | 코드                              |
+| ---- | -------------------------------------------------------- | --------------------------------- |
+| 1    | [9093 단어 뒤집기](https://www.acmicpc.net/problem/9093) | [Java](./BOJ/basic1/Boj9093.java) |
 
 ---
 
