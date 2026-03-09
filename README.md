@@ -17,7 +17,7 @@
 
 # 📊 Progress
 
-![progress](https://img.shields.io/badge/Problems-2%2F200-blue)
+![progress](https://img.shields.io/badge/Problems-3%2F200-blue)
 
 ---
 
@@ -58,6 +58,7 @@
 | ---- | -------------------------------------------------------- | --------------------------------- |
 | 1    | [9093 단어 뒤집기](https://www.acmicpc.net/problem/9093) | [Java](./BOJ/basic1/Boj9093.java) |
 | 2    | [9012 괄호](https://www.acmicpc.net/problem/9012)        | [Java](./BOJ/basic1/Boj9012.java) |
+| 3    | [1874 스택 수열](https://www.acmicpc.net/problem/1874)   | [Java](./BOJ/basic1/Boj1874.java) |
 
 ---
 
