@@ -17,7 +17,7 @@
 
 # 📊 Progress
 
-![progress](https://img.shields.io/badge/Problems-5%2F200-blue)
+![progress](https://img.shields.io/badge/Problems-6%2F200-blue)
 
 ---
 
@@ -54,13 +54,14 @@
 
 ## Problem List
 
-| 번호 | 문제                                                     | 코드                              |
-| ---- | -------------------------------------------------------- | --------------------------------- |
-| 1    | [9093 단어 뒤집기](https://www.acmicpc.net/problem/9093) | [Java](./BOJ/basic1/Boj9093.java) |
-| 2    | [9012 괄호](https://www.acmicpc.net/problem/9012)        | [Java](./BOJ/basic1/Boj9012.java) |
-| 3    | [1874 스택 수열](https://www.acmicpc.net/problem/1874)   | [Java](./BOJ/basic1/Boj1874.java) |
-| 4    | [1406 에디터](https://www.acmicpc.net/problem/1406)      | [Java](./BOJ/basic1/Boj1406.java) |
-| 5    | [1158 요세푸스](https://www.acmicpc.net/problem/1158)    | [Java](./BOJ/basic1/Boj1158.java) |
+| 번호 | 문제                                                        | 코드                               |
+| ---- | ----------------------------------------------------------- | ---------------------------------- |
+| 1    | [9093 단어 뒤집기](https://www.acmicpc.net/problem/9093)    | [Java](./BOJ/basic1/Boj9093.java)  |
+| 2    | [9012 괄호](https://www.acmicpc.net/problem/9012)           | [Java](./BOJ/basic1/Boj9012.java)  |
+| 3    | [1874 스택 수열](https://www.acmicpc.net/problem/1874)      | [Java](./BOJ/basic1/Boj1874.java)  |
+| 4    | [1406 에디터](https://www.acmicpc.net/problem/1406)         | [Java](./BOJ/basic1/Boj1406.java)  |
+| 5    | [1158 요세푸스](https://www.acmicpc.net/problem/1158)       | [Java](./BOJ/basic1/Boj1158.java)  |
+| 6    | [17413 단어 뒤집기2](https://www.acmicpc.net/problem/17413) | [Java](./BOJ/basic1/Boj17413.java) |
 
 ---
 
