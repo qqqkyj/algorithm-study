@@ -17,7 +17,7 @@
 
 # 📊 Progress
 
-![progress](https://img.shields.io/badge/Problems-6%2F200-blue)
+![progress](https://img.shields.io/badge/Problems-7%2F200-blue)
 
 ---
 
@@ -62,6 +62,7 @@
 | 4    | [1406 에디터](https://www.acmicpc.net/problem/1406)         | [Java](./BOJ/basic1/Boj1406.java)  |
 | 5    | [1158 요세푸스](https://www.acmicpc.net/problem/1158)       | [Java](./BOJ/basic1/Boj1158.java)  |
 | 6    | [17413 단어 뒤집기2](https://www.acmicpc.net/problem/17413) | [Java](./BOJ/basic1/Boj17413.java) |
+| 7    | [10799 쇠막대기](https://www.acmicpc.net/problem/10799)     | [Java](./BOJ/basic1/Boj10799.java) |
 
 ---
 
