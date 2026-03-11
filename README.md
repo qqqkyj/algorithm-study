@@ -17,7 +17,7 @@
 
 # 📊 Progress
 
-![progress](https://img.shields.io/badge/Problems-13%2F200-blue)
+![progress](https://img.shields.io/badge/Problems-14%2F200-blue)
 
 ---
 
@@ -69,6 +69,7 @@
 | 11   | [1918 후위 표기식](https://www.acmicpc.net/problem/1918)    | [Java](./BOJ/basic1/Boj1918.java)  |
 | 12   | [10808 알파벳 개수](https://www.acmicpc.net/problem/10808)  | [Java](./BOJ/basic1/Boj10808.java) |
 | 13   | [10809 알파벳 찾기](https://www.acmicpc.net/problem/10809)  | [Java](./BOJ/basic1/Boj10809.java) |
+| 14   | [10820 문자열 분석](https://www.acmicpc.net/problem/10820)  | [Java](./BOJ/basic1/Boj10820.java) |
 
 ---
 
