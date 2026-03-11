@@ -17,7 +17,7 @@
 
 # 📊 Progress
 
-![progress](https://img.shields.io/badge/Problems-18%2F200-blue)
+![progress](https://img.shields.io/badge/Problems-19%2F200-blue)
 
 ---
 
@@ -74,6 +74,7 @@
 | 16   | [11655 ROT13](https://www.acmicpc.net/problem/11655)        | [Java](./BOJ/basic1/Boj11655.java) |
 | 17   | [10824 네 수](https://www.acmicpc.net/problem/10824)        | [Java](./BOJ/basic1/Boj10824.java) |
 | 18   | [11656 접미사 배열](https://www.acmicpc.net/problem/11656)  | [Java](./BOJ/basic1/Boj11656.java) |
+| 19   | [1934 최소공배수](https://www.acmicpc.net/problem/1934)     | [Java](./BOJ/basic1/Boj1934.java)  |
 
 ---
 
