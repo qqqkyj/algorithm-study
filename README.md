@@ -11,13 +11,11 @@
 
 # ⭐ Solved.ac 티어
 
-![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=123rkdduswn)
-
----
+## ![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=123rkdduswn)
 
 # 📊 Progress
 
-![progress](https://img.shields.io/badge/Problems-20%2F200-blue)
+![progress](https://img.shields.io/badge/Problems-21%2F200-blue)
 
 ---
 
@@ -76,6 +74,7 @@
 | 18   | [11656 접미사 배열](https://www.acmicpc.net/problem/11656)   | [Java](./BOJ/basic1/Boj11656.java) |
 | 19   | [1934 최소공배수](https://www.acmicpc.net/problem/1934)      | [Java](./BOJ/basic1/Boj1934.java)  |
 | 20   | [6588 골드바흐의 추측](https://www.acmicpc.net/problem/6588) | [Java](./BOJ/basic1/Boj6588.java)  |
+| 21   | [2004 조합 0의 개수](https://www.acmicpc.net/problem/2004)   | [Java](./BOJ/basic1/Boj2004.java)  |
 
 ---
 
