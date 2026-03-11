@@ -17,7 +17,7 @@
 
 # 📊 Progress
 
-![progress](https://img.shields.io/badge/Problems-12%2F200-blue)
+![progress](https://img.shields.io/badge/Problems-13%2F200-blue)
 
 ---
 
@@ -68,6 +68,7 @@
 | 10   | [1935 후위 표기식2](https://www.acmicpc.net/problem/1935)   | [Java](./BOJ/basic1/Boj1935.java)  |
 | 11   | [1918 후위 표기식](https://www.acmicpc.net/problem/1918)    | [Java](./BOJ/basic1/Boj1918.java)  |
 | 12   | [10808 알파벳 개수](https://www.acmicpc.net/problem/10808)  | [Java](./BOJ/basic1/Boj10808.java) |
+| 13   | [10809 알파벳 찾기](https://www.acmicpc.net/problem/10809)  | [Java](./BOJ/basic1/Boj10809.java) |
 
 ---
 
