@@ -17,7 +17,7 @@
 
 # 📊 Progress
 
-![progress](https://img.shields.io/badge/Problems-17%2F200-blue)
+![progress](https://img.shields.io/badge/Problems-18%2F200-blue)
 
 ---
 
@@ -73,6 +73,7 @@
 | 15   | [2743 단어 길이 재기](https://www.acmicpc.net/problem/2743) | [Java](./BOJ/basic1/Boj2743.java)  |
 | 16   | [11655 ROT13](https://www.acmicpc.net/problem/11655)        | [Java](./BOJ/basic1/Boj11655.java) |
 | 17   | [10824 네 수](https://www.acmicpc.net/problem/10824)        | [Java](./BOJ/basic1/Boj10824.java) |
+| 18   | [11656 접미사 배열](https://www.acmicpc.net/problem/11656)  | [Java](./BOJ/basic1/Boj11656.java) |
 
 ---
 
