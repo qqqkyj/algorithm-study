@@ -15,7 +15,7 @@
 
 # 📊 Progress
 
-![progress](https://img.shields.io/badge/Problems-27%2F200-blue)
+![progress](https://img.shields.io/badge/Problems-28%2F200-blue)
 
 ---
 
@@ -81,6 +81,7 @@
 | 25   | [1212 8진수 2진수](https://www.acmicpc.net/problem/1212)        | [Java](./BOJ/basic1/Boj1212.java)  |
 | 26   | [2089 -2진수](https://www.acmicpc.net/problem/2089)             | [Java](./BOJ/basic1/Boj2089.java)  |
 | 27   | [17103 -골드바흐 파티션](https://www.acmicpc.net/problem/17103) | [Java](./BOJ/basic1/Boj17103.java) |
+| 28   | [11576 -Base Conversion](https://www.acmicpc.net/problem/11576) | [Java](./BOJ/basic1/Boj11576.java) |
 
 ---
 
