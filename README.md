@@ -15,7 +15,7 @@
 
 # 📊 Progress
 
-![progress](https://img.shields.io/badge/Problems-23%2F200-blue)
+![progress](https://img.shields.io/badge/Problems-24%2F200-blue)
 
 ---
 
@@ -77,6 +77,7 @@
 | 21   | [2004 조합 0의 개수](https://www.acmicpc.net/problem/2004)   | [Java](./BOJ/basic1/Boj2004.java)  |
 | 22   | [9613 GCD 합](https://www.acmicpc.net/problem/9613)          | [Java](./BOJ/basic1/Boj9613.java)  |
 | 23   | [17087 숨바꼭질 6](https://www.acmicpc.net/problem/17087)    | [Java](./BOJ/basic1/Boj17087.java) |
+| 24   | [1373 2진수 8진수](https://www.acmicpc.net/problem/1373)     | [Java](./BOJ/basic1/Boj1373.java)  |
 
 ---
 
