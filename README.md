@@ -15,7 +15,7 @@
 
 # 📊 Progress
 
-![progress](https://img.shields.io/badge/Problems-32%2F200-blue)
+![progress](https://img.shields.io/badge/Problems-33%2F200-blue)
 
 ---
 
@@ -53,40 +53,41 @@
 
 ## Problem List
 
-| 번호 | 문제                                                            | 코드                               |
-| ---- | --------------------------------------------------------------- | ---------------------------------- |
-| 1    | [9093 단어 뒤집기](https://www.acmicpc.net/problem/9093)        | [Java](./BOJ/basic1/Boj9093.java)  |
-| 2    | [9012 괄호](https://www.acmicpc.net/problem/9012)               | [Java](./BOJ/basic1/Boj9012.java)  |
-| 3    | [1874 스택 수열](https://www.acmicpc.net/problem/1874)          | [Java](./BOJ/basic1/Boj1874.java)  |
-| 4    | [1406 에디터](https://www.acmicpc.net/problem/1406)             | [Java](./BOJ/basic1/Boj1406.java)  |
-| 5    | [1158 요세푸스](https://www.acmicpc.net/problem/1158)           | [Java](./BOJ/basic1/Boj1158.java)  |
-| 6    | [17413 단어 뒤집기2](https://www.acmicpc.net/problem/17413)     | [Java](./BOJ/basic1/Boj17413.java) |
-| 7    | [10799 쇠막대기](https://www.acmicpc.net/problem/10799)         | [Java](./BOJ/basic1/Boj10799.java) |
-| 8    | [17298 오큰수](https://www.acmicpc.net/problem/17298)           | [Java](./BOJ/basic1/Boj17298.java) |
-| 9    | [17299 오등큰수](https://www.acmicpc.net/problem/17299)         | [Java](./BOJ/basic1/Boj17299.java) |
-| 10   | [1935 후위 표기식2](https://www.acmicpc.net/problem/1935)       | [Java](./BOJ/basic1/Boj1935.java)  |
-| 11   | [1918 후위 표기식](https://www.acmicpc.net/problem/1918)        | [Java](./BOJ/basic1/Boj1918.java)  |
-| 12   | [10808 알파벳 개수](https://www.acmicpc.net/problem/10808)      | [Java](./BOJ/basic1/Boj10808.java) |
-| 13   | [10809 알파벳 찾기](https://www.acmicpc.net/problem/10809)      | [Java](./BOJ/basic1/Boj10809.java) |
-| 14   | [10820 문자열 분석](https://www.acmicpc.net/problem/10820)      | [Java](./BOJ/basic1/Boj10820.java) |
-| 15   | [2743 단어 길이 재기](https://www.acmicpc.net/problem/2743)     | [Java](./BOJ/basic1/Boj2743.java)  |
-| 16   | [11655 ROT13](https://www.acmicpc.net/problem/11655)            | [Java](./BOJ/basic1/Boj11655.java) |
-| 17   | [10824 네 수](https://www.acmicpc.net/problem/10824)            | [Java](./BOJ/basic1/Boj10824.java) |
-| 18   | [11656 접미사 배열](https://www.acmicpc.net/problem/11656)      | [Java](./BOJ/basic1/Boj11656.java) |
-| 19   | [1934 최소공배수](https://www.acmicpc.net/problem/1934)         | [Java](./BOJ/basic1/Boj1934.java)  |
-| 20   | [6588 골드바흐의 추측](https://www.acmicpc.net/problem/6588)    | [Java](./BOJ/basic1/Boj6588.java)  |
-| 21   | [2004 조합 0의 개수](https://www.acmicpc.net/problem/2004)      | [Java](./BOJ/basic1/Boj2004.java)  |
-| 22   | [9613 GCD 합](https://www.acmicpc.net/problem/9613)             | [Java](./BOJ/basic1/Boj9613.java)  |
-| 23   | [17087 숨바꼭질 6](https://www.acmicpc.net/problem/17087)       | [Java](./BOJ/basic1/Boj17087.java) |
-| 24   | [1373 2진수 8진수](https://www.acmicpc.net/problem/1373)        | [Java](./BOJ/basic1/Boj1373.java)  |
-| 25   | [1212 8진수 2진수](https://www.acmicpc.net/problem/1212)        | [Java](./BOJ/basic1/Boj1212.java)  |
-| 26   | [2089 -2진수](https://www.acmicpc.net/problem/2089)             | [Java](./BOJ/basic1/Boj2089.java)  |
-| 27   | [17103 -골드바흐 파티션](https://www.acmicpc.net/problem/17103) | [Java](./BOJ/basic1/Boj17103.java) |
-| 28   | [11576 -Base Conversion](https://www.acmicpc.net/problem/11576) | [Java](./BOJ/basic1/Boj11576.java) |
-| 29   | [1463 -1로 만들기](https://www.acmicpc.net/problem/1463)        | [Java](./BOJ/basic1/Boj1463.java)  |
-| 30   | [11726 - 2 X n 타일링](https://www.acmicpc.net/problem/11726)   | [Java](./BOJ/basic1/Boj11726.java) |
-| 31   | [11727 - 2 X n 타일링 2](https://www.acmicpc.net/problem/11727) | [Java](./BOJ/basic1/Boj11727.java) |
-| 32   | [11052 - 카드 구매하기](https://www.acmicpc.net/problem/11052)  | [Java](./BOJ/basic1/Boj11052.java) |
+| 번호 | 문제                                                             | 코드                               |
+| ---- | ---------------------------------------------------------------- | ---------------------------------- |
+| 1    | [9093 단어 뒤집기](https://www.acmicpc.net/problem/9093)         | [Java](./BOJ/basic1/Boj9093.java)  |
+| 2    | [9012 괄호](https://www.acmicpc.net/problem/9012)                | [Java](./BOJ/basic1/Boj9012.java)  |
+| 3    | [1874 스택 수열](https://www.acmicpc.net/problem/1874)           | [Java](./BOJ/basic1/Boj1874.java)  |
+| 4    | [1406 에디터](https://www.acmicpc.net/problem/1406)              | [Java](./BOJ/basic1/Boj1406.java)  |
+| 5    | [1158 요세푸스](https://www.acmicpc.net/problem/1158)            | [Java](./BOJ/basic1/Boj1158.java)  |
+| 6    | [17413 단어 뒤집기2](https://www.acmicpc.net/problem/17413)      | [Java](./BOJ/basic1/Boj17413.java) |
+| 7    | [10799 쇠막대기](https://www.acmicpc.net/problem/10799)          | [Java](./BOJ/basic1/Boj10799.java) |
+| 8    | [17298 오큰수](https://www.acmicpc.net/problem/17298)            | [Java](./BOJ/basic1/Boj17298.java) |
+| 9    | [17299 오등큰수](https://www.acmicpc.net/problem/17299)          | [Java](./BOJ/basic1/Boj17299.java) |
+| 10   | [1935 후위 표기식2](https://www.acmicpc.net/problem/1935)        | [Java](./BOJ/basic1/Boj1935.java)  |
+| 11   | [1918 후위 표기식](https://www.acmicpc.net/problem/1918)         | [Java](./BOJ/basic1/Boj1918.java)  |
+| 12   | [10808 알파벳 개수](https://www.acmicpc.net/problem/10808)       | [Java](./BOJ/basic1/Boj10808.java) |
+| 13   | [10809 알파벳 찾기](https://www.acmicpc.net/problem/10809)       | [Java](./BOJ/basic1/Boj10809.java) |
+| 14   | [10820 문자열 분석](https://www.acmicpc.net/problem/10820)       | [Java](./BOJ/basic1/Boj10820.java) |
+| 15   | [2743 단어 길이 재기](https://www.acmicpc.net/problem/2743)      | [Java](./BOJ/basic1/Boj2743.java)  |
+| 16   | [11655 ROT13](https://www.acmicpc.net/problem/11655)             | [Java](./BOJ/basic1/Boj11655.java) |
+| 17   | [10824 네 수](https://www.acmicpc.net/problem/10824)             | [Java](./BOJ/basic1/Boj10824.java) |
+| 18   | [11656 접미사 배열](https://www.acmicpc.net/problem/11656)       | [Java](./BOJ/basic1/Boj11656.java) |
+| 19   | [1934 최소공배수](https://www.acmicpc.net/problem/1934)          | [Java](./BOJ/basic1/Boj1934.java)  |
+| 20   | [6588 골드바흐의 추측](https://www.acmicpc.net/problem/6588)     | [Java](./BOJ/basic1/Boj6588.java)  |
+| 21   | [2004 조합 0의 개수](https://www.acmicpc.net/problem/2004)       | [Java](./BOJ/basic1/Boj2004.java)  |
+| 22   | [9613 GCD 합](https://www.acmicpc.net/problem/9613)              | [Java](./BOJ/basic1/Boj9613.java)  |
+| 23   | [17087 숨바꼭질 6](https://www.acmicpc.net/problem/17087)        | [Java](./BOJ/basic1/Boj17087.java) |
+| 24   | [1373 2진수 8진수](https://www.acmicpc.net/problem/1373)         | [Java](./BOJ/basic1/Boj1373.java)  |
+| 25   | [1212 8진수 2진수](https://www.acmicpc.net/problem/1212)         | [Java](./BOJ/basic1/Boj1212.java)  |
+| 26   | [2089 -2진수](https://www.acmicpc.net/problem/2089)              | [Java](./BOJ/basic1/Boj2089.java)  |
+| 27   | [17103 -골드바흐 파티션](https://www.acmicpc.net/problem/17103)  | [Java](./BOJ/basic1/Boj17103.java) |
+| 28   | [11576 -Base Conversion](https://www.acmicpc.net/problem/11576)  | [Java](./BOJ/basic1/Boj11576.java) |
+| 29   | [1463 -1로 만들기](https://www.acmicpc.net/problem/1463)         | [Java](./BOJ/basic1/Boj1463.java)  |
+| 30   | [11726 - 2 X n 타일링](https://www.acmicpc.net/problem/11726)    | [Java](./BOJ/basic1/Boj11726.java) |
+| 31   | [11727 - 2 X n 타일링 2](https://www.acmicpc.net/problem/11727)  | [Java](./BOJ/basic1/Boj11727.java) |
+| 32   | [11052 - 카드 구매하기](https://www.acmicpc.net/problem/11052)   | [Java](./BOJ/basic1/Boj11052.java) |
+| 33   | [16194 - 카드 구매하기 2](https://www.acmicpc.net/problem/16194) | [Java](./BOJ/basic1/Boj16194.java) |
 
 ---
 
