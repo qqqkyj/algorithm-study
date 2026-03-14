@@ -15,7 +15,7 @@
 
 # 📊 Progress
 
-![progress](https://img.shields.io/badge/Problems-31%2F200-blue)
+![progress](https://img.shields.io/badge/Problems-32%2F200-blue)
 
 ---
 
@@ -86,6 +86,7 @@
 | 29   | [1463 -1로 만들기](https://www.acmicpc.net/problem/1463)        | [Java](./BOJ/basic1/Boj1463.java)  |
 | 30   | [11726 - 2 X n 타일링](https://www.acmicpc.net/problem/11726)   | [Java](./BOJ/basic1/Boj11726.java) |
 | 31   | [11727 - 2 X n 타일링 2](https://www.acmicpc.net/problem/11727) | [Java](./BOJ/basic1/Boj11727.java) |
+| 32   | [11052 - 카드 구매하기](https://www.acmicpc.net/problem/11052)  | [Java](./BOJ/basic1/Boj11052.java) |
 
 ---
 
