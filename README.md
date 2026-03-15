@@ -15,7 +15,7 @@
 
 # 📊 Progress
 
-![progress](https://img.shields.io/badge/Problems-35%2F200-blue)
+![progress](https://img.shields.io/badge/Problems-36%2F200-blue)
 
 ---
 
@@ -90,6 +90,7 @@
 | 33   | [16194 - 카드 구매하기 2](https://www.acmicpc.net/problem/16194)  | [Java](./BOJ/basic1/Boj16194.java) |
 | 34   | [15990 - 1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990) | [Java](./BOJ/basic1/Boj15990.java) |
 | 35   | [10844 - 쉬운 계단 수](https://www.acmicpc.net/problem/10844)     | [Java](./BOJ/basic1/Boj10844.java) |
+| 36   | [2193 - 이친수](https://www.acmicpc.net/problem/2193)             | [Java](./BOJ/basic1/Boj2193.java)  |
 
 ---
 
