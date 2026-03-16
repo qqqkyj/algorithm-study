@@ -15,7 +15,7 @@
 
 # 📊 Progress
 
-![progress](https://img.shields.io/badge/Problems-40%2F200-blue)
+![progress](https://img.shields.io/badge/Problems-41%2F200-blue)
 
 ---
 
@@ -95,6 +95,7 @@
 | 38   | [14002 - 가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) | [Java](./BOJ/basic1/Boj14002.java) |
 | 39   | [1912 - 연속합](https://www.acmicpc.net/problem/1912)                         | [Java](./BOJ/basic1/Boj1912.java)  |
 | 40   | [1699 - 제곱수의 합](https://www.acmicpc.net/problem/1699)                    | [Java](./BOJ/basic1/Boj1699.java)  |
+| 41   | [2225 - 합분해](https://www.acmicpc.net/problem/2225)                         | [Java](./BOJ/basic1/Boj2225.java)  |
 
 ---
 
