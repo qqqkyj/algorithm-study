@@ -1,6 +1,5 @@
 package BOJ.basic1;
 
-import java.util.*;
 import java.io.*;
 
 public class Boj11057 {
