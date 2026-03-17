@@ -15,7 +15,7 @@
 
 # 📊 Progress
 
-![progress](https://img.shields.io/badge/Problems-41%2F200-blue)
+![progress](https://img.shields.io/badge/Problems-42%2F200-blue)
 
 ---
 
@@ -96,7 +96,7 @@
 | 39   | [1912 - 연속합](https://www.acmicpc.net/problem/1912)                         | [Java](./BOJ/basic1/Boj1912.java)  |
 | 40   | [1699 - 제곱수의 합](https://www.acmicpc.net/problem/1699)                    | [Java](./BOJ/basic1/Boj1699.java)  |
 | 41   | [2225 - 합분해](https://www.acmicpc.net/problem/2225)                         | [Java](./BOJ/basic1/Boj2225.java)  |
-
+| 42   | [15988 - 1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)                         | [Java](./BOJ/basic1/Boj15988.java)  |
 ---
 
 # 2️⃣ 알고리즘 기초 2
