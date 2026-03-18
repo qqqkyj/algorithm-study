@@ -15,7 +15,7 @@
 
 # 📊 Progress
 
-![progress](https://img.shields.io/badge/Problems-48%2F200-blue)
+![progress](https://img.shields.io/badge/Problems-49%2F200-blue)
 
 ---
 
@@ -103,6 +103,7 @@
 | 46   | [9465 - 스티커](https://www.acmicpc.net/problem/9465)                         | [Java](./BOJ/basic1/Boj9465.java)  |
 | 47   | [2156 - 포도주 시식](https://www.acmicpc.net/problem/2156)                    | [Java](./BOJ/basic1/Boj2156.java)  |
 | 48   | [1932 - 정수 삼각형](https://www.acmicpc.net/problem/1932)                    | [Java](./BOJ/basic1/Boj1932.java)  |
+| 49   | [11055 - 가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055)   | [Java](./BOJ/basic1/Boj11055.java) |
 
 ---
 
