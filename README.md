@@ -15,7 +15,7 @@
 
 # 📊 Progress
 
-![progress](https://img.shields.io/badge/Problems-47%2F200-blue)
+![progress](https://img.shields.io/badge/Problems-48%2F200-blue)
 
 ---
 
@@ -102,6 +102,7 @@
 | 45   | [11057 - 오르막 수](https://www.acmicpc.net/problem/11057)                    | [Java](./BOJ/basic1/Boj11057.java) |
 | 46   | [9465 - 스티커](https://www.acmicpc.net/problem/9465)                         | [Java](./BOJ/basic1/Boj9465.java)  |
 | 47   | [2156 - 포도주 시식](https://www.acmicpc.net/problem/2156)                    | [Java](./BOJ/basic1/Boj2156.java)  |
+| 48   | [1932 - 정수 삼각형](https://www.acmicpc.net/problem/1932)                    | [Java](./BOJ/basic1/Boj1932.java)  |
 
 ---
 
