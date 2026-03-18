@@ -15,7 +15,7 @@
 
 # 📊 Progress
 
-![progress](https://img.shields.io/badge/Problems-46%2F200-blue)
+![progress](https://img.shields.io/badge/Problems-47%2F200-blue)
 
 ---
 
@@ -96,11 +96,13 @@
 | 39   | [1912 - 연속합](https://www.acmicpc.net/problem/1912)                         | [Java](./BOJ/basic1/Boj1912.java)  |
 | 40   | [1699 - 제곱수의 합](https://www.acmicpc.net/problem/1699)                    | [Java](./BOJ/basic1/Boj1699.java)  |
 | 41   | [2225 - 합분해](https://www.acmicpc.net/problem/2225)                         | [Java](./BOJ/basic1/Boj2225.java)  |
-| 42   | [15988 - 1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)                         | [Java](./BOJ/basic1/Boj15988.java)  |
-| 43   | [1149 - RGB거리](https://www.acmicpc.net/problem/1149)                         | [Java](./BOJ/basic1/Boj1149.java)  |
+| 42   | [15988 - 1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)             | [Java](./BOJ/basic1/Boj15988.java) |
+| 43   | [1149 - RGB거리](https://www.acmicpc.net/problem/1149)                        | [Java](./BOJ/basic1/Boj1149.java)  |
 | 44   | [1309 - 동물원](https://www.acmicpc.net/problem/1309)                         | [Java](./BOJ/basic1/Boj1309.java)  |
-| 45   | [11057 - 오르막 수](https://www.acmicpc.net/problem/11057)                         | [Java](./BOJ/basic1/Boj11057.java)  |
+| 45   | [11057 - 오르막 수](https://www.acmicpc.net/problem/11057)                    | [Java](./BOJ/basic1/Boj11057.java) |
 | 46   | [9465 - 스티커](https://www.acmicpc.net/problem/9465)                         | [Java](./BOJ/basic1/Boj9465.java)  |
+| 47   | [2156 - 포도주 시식](https://www.acmicpc.net/problem/2156)                    | [Java](./BOJ/basic1/Boj2156.java)  |
+
 ---
 
 # 2️⃣ 알고리즘 기초 2
