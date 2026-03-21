@@ -15,7 +15,7 @@
 
 # 📊 Progress
 
-![progress](https://img.shields.io/badge/Problems-51%2F200-blue)
+![progress](https://img.shields.io/badge/Problems-52%2F200-blue)
 
 ---
 
@@ -106,6 +106,7 @@
 | 49   | [11055 - 가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055)   | [Java](./BOJ/basic1/Boj11055.java) |
 | 50   | [11722 - 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)   | [Java](./BOJ/basic1/Boj11722.java) |
 | 51   | [11054 - 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)   | [Java](./BOJ/basic1/Boj11054.java) |
+| 52   | [13398 - 연속합 2](https://www.acmicpc.net/problem/13398)                     | [Java](./BOJ/basic1/Boj13398.java) |
 
 ---
 
