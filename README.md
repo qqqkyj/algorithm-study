@@ -15,7 +15,7 @@
 
 # 📊 Progress
 
-![progress](https://img.shields.io/badge/Problems-54%2F200-blue)
+![progress](https://img.shields.io/badge/Problems-55%2F200-blue)
 
 ---
 
@@ -109,6 +109,7 @@
 | 52     | [13398 - 연속합 2](https://www.acmicpc.net/problem/13398)                     | [Java](./BOJ/basic1/Boj13398.java) |
 | 53 (X) | [2133 - 타일 채우기(실패)](https://www.acmicpc.net/problem/2133)              | [Java](./BOJ/basic1/Boj2133.java)  |
 | 54     | [17404 - RGB거리 2](https://www.acmicpc.net/problem/17404)                    | [Java](./BOJ/basic1/Boj17404.java) |
+| 55     | [2579 - 계단 오르기](https://www.acmicpc.net/problem/2579)                    | [Java](./BOJ/basic1/Boj2579.java)  |
 
 ---
 
